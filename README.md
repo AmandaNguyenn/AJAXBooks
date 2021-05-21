@@ -1,4 +1,4 @@
-#AJAXBooks Class Activity
+AJAXBooks Class Activity
 
-##Overview
+Overview
 This project was created with React
